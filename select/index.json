@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "LOVE SCENARIO",
+  "base_artist": "iKON",
+  "createdAt": "2026-02-09T09:58:39.671802Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LOVE SCENARIO",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/01_LOVE_SCENARIO_iKON.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "사랑을 했다 (LOVE SCENARIO) [www.MusicBaran.Net]",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/02_사랑을_했다_(LOVE_SCENARIO)_[www.MusicBaran.Net]_iKON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "사랑을 했다 (LOVE SCENARIO)",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/03_사랑을_했다_(LOVE_SCENARIO)_iKON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Scenario",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/04_Love_Scenario_iKON.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LOVE SCENARIO",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/05_LOVE_SCENARIO_iKON.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Scenario 사랑을 했다",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/06_Love_Scenario_사랑을_했다_iKON.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "사랑을 했다 (LOVE SCENARIO)",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/07_사랑을_했다_(LOVE_SCENARIO)_iKON.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LOVE SCENARIO",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/08_LOVE_SCENARIO_iKON.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LOVE SCENARIO (사랑을 했다)",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/09_LOVE_SCENARIO_(사랑을_했다)_iKON.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LOVE SCENARIO",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/10_LOVE_SCENARIO_iKON.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "iKON - ‘사랑을 했다(LOVE SCENARIO)’ M/V",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/11_iKON_-_‘사랑을_했다(LOVE_SCENARIO)’_M_V_iKON.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LOVE SCENARIO (사랑을 했다)",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/12_LOVE_SCENARIO_(사랑을_했다)_iKON.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "사랑을 했다 (LOVE SCENARIO)",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/13_사랑을_했다_(LOVE_SCENARIO)_iKON.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "LOVE SCENARIO (Live)",
+      "artist": "Ikon",
+      "has_synced": true,
+      "path": "select/14_LOVE_SCENARIO_(Live)_Ikon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "LOVE SCENARIO",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/15_LOVE_SCENARIO_iKON.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "사랑을 했다 (LOVE SCENARIO)",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/16_사랑을_했다_(LOVE_SCENARIO)_iKON.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love Scenario",
+      "artist": "Joytastic Sarah",
+      "has_synced": true,
+      "path": "select/17_Love_Scenario_Joytastic_Sarah.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE SCENARIO",
+      "artist": "iKON",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_SCENARIO_iKON.txt"
+    }
+  ]
+}
